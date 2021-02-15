@@ -1,4 +1,4 @@
-# Innovative-Logistics
+# Innovative Logistics
 ## RFID
 This contains the code to scan the RFID tags.
 ## LCD
