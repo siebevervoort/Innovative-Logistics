@@ -8,6 +8,8 @@ This contains the code to scan the RFID tags.
 This contains the code that gives instructions to the truck driver (which bay and where the bay is).
 ### Ultrasonic
 This contains the code to check if a truck is at the checkpoint. If there is a truck, then the camera will take a picture and scan the numberplate.
+### Webcam
+This contains the configuration and the code for the camera and the numberplate recognition.
 ### Total Checkpoint
 This contains the entire code of the Raspberry Pi at the checkpoint. This code consists of the RFID, LCD, Barriers and the Number Plate recognition.
 
